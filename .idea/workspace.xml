@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="laba 3 module 3">
-      <change afterPath="$PROJECT_DIR$/module3/module_3_4.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="laba 4 module 3">
+      <change afterPath="$PROJECT_DIR$/module3/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725223858898</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="laba 4 module 3">
+      <option name="closed" value="true" />
+      <created>1725224155999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725224155999</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +217,8 @@
     <MESSAGE value="laba 1 module 3" />
     <MESSAGE value="laba 2 module 3" />
     <MESSAGE value="laba 3 module 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="laba 3 module 3" />
+    <MESSAGE value="laba 4 module 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="laba 4 module 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
