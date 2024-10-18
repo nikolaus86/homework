@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="module_1_6.py">
-      <change afterPath="$PROJECT_DIR$/module1/module_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/module_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/module_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/module_2_4.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/module2/module_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/module_2_hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729279348223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <option name="closed" value="true" />
+      <created>1729280506406</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729280506406</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +240,8 @@
     <MESSAGE value="laba 3 module 3" />
     <MESSAGE value="laba 4 module 3" />
     <MESSAGE value="module_1_6.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_1_6.py" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
