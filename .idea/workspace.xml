@@ -33,12 +33,12 @@
     &quot;assignee&quot;: &quot;nikolaus86&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nikolaus86/homework.git",
-    "accountId": "1c10a88c-4068-425c-a9b9-434516361ca0"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nikolaus86/homework.git&quot;,
+    &quot;accountId&quot;: &quot;1c10a88c-4068-425c-a9b9-434516361ca0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -51,36 +51,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python. module_5_4.executor": "Run",
-    "Python.homework1.executor": "Run",
-    "Python.homework2.executor": "Run",
-    "Python.homework3.executor": "Run",
-    "Python.homework4.executor": "Run",
-    "Python.homework5.executor": "Run",
-    "Python.main.executor": "Debug",
-    "Python.module5hard.executor": "Run",
-    "Python.module_1_6.executor": "Run",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.samrab1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python. module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module5hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.samrab1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
