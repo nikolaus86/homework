@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 5.0">
-      <change afterPath="$PROJECT_DIR$/module6/module_6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6/module_6_2.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 6.0">
+      <change afterPath="$PROJECT_DIR$/module7/module_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/module_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/module_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,36 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python. module_5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module5hard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.samrab1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python. module_5_4.executor": "Run",
+    "Python.homework1.executor": "Run",
+    "Python.homework2.executor": "Run",
+    "Python.homework3.executor": "Run",
+    "Python.homework4.executor": "Run",
+    "Python.homework5.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.module5hard.executor": "Run",
+    "Python.module_1_6.executor": "Run",
+    "Python.module_2_2.executor": "Run",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_6_2.executor": "Run",
+    "Python.module_6_3.executor": "Run",
+    "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
+    "Python.module_7_3.executor": "Run",
+    "Python.samrab1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
@@ -279,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729284087236</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update 6.0">
+      <option name="closed" value="true" />
+      <created>1729284661024</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729284661024</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +325,8 @@
     <MESSAGE value="update 3.0" />
     <MESSAGE value="update 4.0" />
     <MESSAGE value="update 5.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 5.0" />
+    <MESSAGE value="update 6.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 6.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
