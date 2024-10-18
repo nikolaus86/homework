@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="laba 4 module 3">
-      <change afterPath="$PROJECT_DIR$/module1/module_1_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="module_1_6.py">
+      <change afterPath="$PROJECT_DIR$/module1/module_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/module_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/module_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/module_2_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,25 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.samrab1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.homework1.executor": "Run",
+    "Python.homework2.executor": "Run",
+    "Python.homework3.executor": "Run",
+    "Python.homework4.executor": "Run",
+    "Python.homework5.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.module_1_6.executor": "Run",
+    "Python.module_2_2.executor": "Run",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.samrab1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
@@ -196,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725224155999</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="module_1_6.py">
+      <option name="closed" value="true" />
+      <created>1729279348223</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729279348223</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +234,8 @@
     <MESSAGE value="laba 2 module 3" />
     <MESSAGE value="laba 3 module 3" />
     <MESSAGE value="laba 4 module 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="laba 4 module 3" />
+    <MESSAGE value="module_1_6.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_1_6.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -253,6 +268,10 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>4</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module2/main.py</url>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
