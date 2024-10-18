@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 4.0">
-      <change afterPath="$PROJECT_DIR$/module5/ module_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/module5hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/module_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/module_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5/module_5_3.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 5.0">
+      <change afterPath="$PROJECT_DIR$/module6/module_6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module6/module_6_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -265,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729282274488</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update 5.0">
+      <option name="closed" value="true" />
+      <created>1729284016387</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729284016387</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update 5.0">
+      <option name="closed" value="true" />
+      <created>1729284087235</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1729284087236</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +308,8 @@
     <MESSAGE value="update 2.0" />
     <MESSAGE value="update 3.0" />
     <MESSAGE value="update 4.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 4.0" />
+    <MESSAGE value="update 5.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 5.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
