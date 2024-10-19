@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 7.0" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 7.0">
+      <change afterPath="$PROJECT_DIR$/module7/Mother Goose - Monday’s Child.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module7/test_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module7/module_7_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module7/module_7_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +59,7 @@
     "Python.homework3.executor": "Run",
     "Python.homework4.executor": "Run",
     "Python.homework5.executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.module5hard.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_2_2.executor": "Run",
@@ -78,9 +83,18 @@
     "Python.samrab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/w0lf/PycharmProjects/homework/module7",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\w0lf\PycharmProjects\homework\module7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\w0lf\PycharmProjects\homework\module7" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
