@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 9.0">
-      <change afterPath="$PROJECT_DIR$/module12/runner_tests.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module12/tests_12_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/life_is_strange_bot/mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/module_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/module_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/module_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/module_13_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +70,7 @@
     "Python.homework3.executor": "Run",
     "Python.homework4.executor": "Run",
     "Python.homework5.executor": "Run",
+    "Python.mail.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module5hard.executor": "Run",
     "Python.module_10_1.executor": "Run",
@@ -115,6 +119,7 @@
       <recent name="C:\Users\w0lf\PycharmProjects\homework\module7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\w0lf\PycharmProjects\homework\module13" />
       <recent name="C:\Users\w0lf\PycharmProjects\homework\module10" />
       <recent name="C:\Users\w0lf\PycharmProjects\homework\module7" />
     </key>
@@ -383,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729357000961</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update 9.0">
+      <option name="closed" value="true" />
+      <created>1729359442135</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729359442135</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
