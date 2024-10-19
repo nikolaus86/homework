@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 9.0">
       <change afterPath="$PROJECT_DIR$/module13/life_is_strange_bot/mail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/module_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/module_13_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/module_13_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/module_13_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -396,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729359442135</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update 9.0">
+      <option name="closed" value="true" />
+      <created>1729364160830</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729364160830</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
