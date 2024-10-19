@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 9.0">
-      <change afterPath="$PROJECT_DIR$/module12/tests_12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module12/12_3/suite_12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module12/12_3/tests_12_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python tests.Python tests in tests_12_1.py.executor": "Run",
     "Python tests.Python tests in tests_12_2.py.executor": "Run",
+    "Python tests.Python tests in tests_12_3.py.executor": "Run",
     "Python. module_5_4.executor": "Run",
     "Python.Files_in_the_operating_system.executor": "Run",
     "Python.Formatting_strings.executor": "Run",
@@ -361,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729354354895</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update 9.0">
+      <option name="closed" value="true" />
+      <created>1729356435117</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729356435117</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
