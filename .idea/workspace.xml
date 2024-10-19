@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 23">
-      <change afterPath="$PROJECT_DIR$/module16/module_16_3.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 27">
+      <change afterPath="$PROJECT_DIR$/module16/module_16_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,8 @@
     "Python.module_14_5.executor": "Run",
     "Python.module_16_1.executor": "Run",
     "Python.module_16_2.executor": "Run",
+    "Python.module_16_3.executor": "Run",
+    "Python.module_16_4.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
@@ -471,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729378414655</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update 27">
+      <option name="closed" value="true" />
+      <created>1729378689518</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1729378689518</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +517,8 @@
     <MESSAGE value="update 8.0" />
     <MESSAGE value="update 9.0" />
     <MESSAGE value="update 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 23" />
+    <MESSAGE value="update 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
