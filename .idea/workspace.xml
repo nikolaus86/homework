@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 9.0">
-      <change afterPath="$PROJECT_DIR$/module13/life_is_strange_bot/mail.py" afterDir="false" />
-    </list>
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="update 9.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -398,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729364160830</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update 9.0">
+      <option name="closed" value="true" />
+      <created>1729364277464</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729364277464</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
