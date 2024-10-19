@@ -1,0 +1,16 @@
+2024-10-19 22:37:02,996 - ERROR - Ошибка в test_run
+Traceback (most recent call last):
+  File "C:\Users\w0lf\PycharmProjects\homework\module12\tests_12_4.py", line 57, in test_run
+    runner = Runner(12345, 10)  # Передаем что-то кроме строки
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\w0lf\PycharmProjects\homework\module12\tests_12_4.py", line 18, in __init__
+    raise TypeError(f'Имя может быть только строкой, передано {type(name).__name__}')
+TypeError: Имя может быть только строкой, передано int
+2024-10-19 22:37:02,997 - ERROR - Ошибка в test_walk
+Traceback (most recent call last):
+  File "C:\Users\w0lf\PycharmProjects\homework\module12\tests_12_4.py", line 47, in test_walk
+    runner = Runner('Usain', -5)  # Передаем отрицательную скорость
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\w0lf\PycharmProjects\homework\module12\tests_12_4.py", line 23, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
