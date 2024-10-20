@@ -1,11 +1,13 @@
-from fastapi import FastAPI, HTTPException, Path, Request
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
+from fastapi import FastAPI, HTTPException, Path, Request, Response
+from fastapi.responses import HTMLResponse # импортируем HTMLResponse
 from pydantic import BaseModel
-from typing import List, Optional
+from typing import List, Union
+from fastapi.templating import Jinja2Templates
 
 app = FastAPI()
-templates = Jinja2Templates(directory="templates")
+
+
+
 
 # Пустой список пользователей
 users = []
@@ -16,26 +18,15 @@ class User(BaseModel):
     username: str
     age: int
 
-@app.on_event("startup")
-async def startup_event():
-    global users
-    users.extend([
-        User(id=1, username='UrbanUser', age=24),
-        User(id=2, username='UrbanTest', age=22),
-        User(id=3, username='Capybara', age=60)
-    ])
+# Подключаем шаблоны Jinja2
+templates = Jinja2Templates(directory="templates")
 
-@app.get("/", response_class=HTMLResponse)
-async def read_users(request: Request):
-    return templates.TemplateResponse("users.html", {"request": request, "user_list": users})
+# 1. GET запрос для получения всех пользователей (API)
+@app.get("/users", response_model=List[User])
+async def get_users_api():
+    return users
 
-@app.get("/user/{user_id}", response_class=HTMLResponse)
-async def get_user(request: Request, user_id: int):
-    for user in users:
-        if user.id == user_id:
-            return templates.TemplateResponse("users.html", {"request": request, "user": user})
-    raise HTTPException(status_code=404, detail="User was not found")
-
+# 2. POST запрос для добавления нового пользователя
 @app.post("/user/{username}/{age}", response_model=User)
 async def create_user(
     username: str = Path(min_length=5, max_length=20, title="Enter username"),
@@ -46,6 +37,17 @@ async def create_user(
     users.append(new_user)
     return new_user
 
+
+# 3. GET запрос для получения одного пользователя по ID (API)
+@app.get("/users/{user_id}", response_model=User)
+async def get_user_api(user_id: int):
+    for user in users:
+        if user.id == user_id:
+            return user
+    raise HTTPException(status_code=404, detail="User not found")
+
+
+# 4. PUT запрос для обновления существующего пользователя
 @app.put("/user/{user_id}/{username}/{age}", response_model=User)
 async def update_user(
     user_id: int = Path(title="Enter User ID", gt=0),
@@ -59,10 +61,26 @@ async def update_user(
             return user
     raise HTTPException(status_code=404, detail="User was not found")
 
+# 5. DELETE запрос для удаления пользователя
 @app.delete("/user/{user_id}", response_model=User)
-async def delete_user(user_id: int = Path(title="Enter User ID", gt=0)):
+async def delete_user(
+    user_id: int = Path(title="Enter User ID", gt=0)
+):
     for user in users:
         if user.id == user_id:
             users.remove(user)
             return user
     raise HTTPException(status_code=404, detail="User was not found")
+
+# 6. Маршрут для отображения всех пользователей (HTML)
+@app.get("/", response_class=HTMLResponse, include_in_schema=False)
+async def get_users_html(request: Request):
+    return templates.TemplateResponse("users.html", {"request": request, "users": users})
+
+# 7. Маршрут для отображения одного пользователя (HTML)
+@app.get("/user/{user_id}", response_class=HTMLResponse, include_in_schema=False)
+async def get_user_html(request: Request, user_id: int):
+    for user in users:
+        if user.id == user_id:
+            return templates.TemplateResponse("users.html", {"request": request, "user": user})
+    raise HTTPException(status_code=404, detail="User not found")
