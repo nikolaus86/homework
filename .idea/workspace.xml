@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="django part3">
-      <change afterPath="$PROJECT_DIR$/module6/dopran.py" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="module7">
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/fourth_task/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/fourth_task/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/store.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/task3/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/task3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/shop.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,6 +83,7 @@
     &quot;Python.Formatting_strings.executor&quot;: &quot;Run&quot;,
     &quot;Python.Introspection.executor&quot;: &quot;Run&quot;,
     &quot;Python.crud_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dopran.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
@@ -553,7 +574,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729440143643</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="django part3">
+      <option name="closed" value="true" />
+      <created>1729445590928</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1729445590928</updated>
+    </task>
+    <task id="LOCAL-00049" summary="module7">
+      <option name="closed" value="true" />
+      <created>1729445664187</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1729445664187</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -593,7 +630,8 @@
     <MESSAGE value="django part1" />
     <MESSAGE value="django part2" />
     <MESSAGE value="django part3" />
-    <option name="LAST_COMMIT_MESSAGE" value="django part3" />
+    <MESSAGE value="module7" />
+    <option name="LAST_COMMIT_MESSAGE" value="module7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
