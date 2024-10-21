@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="django#1">
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/second_task/template_class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/second_task/template_function.html" afterDir="false" />
+    <list default="true" id="016610c6-06b1-4161-88e4-0861919cbc32" name="Changes" comment="django#2">
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/task3/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module18/UrbanDjango/templates/third_task/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/module18/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,14 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712744420896</updated>
-    </task>
-    <task id="LOCAL-00004" summary="LABA5">
-      <option name="closed" value="true" />
-      <created>1712752842170</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1712752842170</updated>
     </task>
     <task id="LOCAL-00005" summary="laba 1 module 3">
       <option name="closed" value="true" />
@@ -581,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729539828897</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="django#2">
+      <option name="closed" value="true" />
+      <created>1729540305024</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1729540305024</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -597,7 +597,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LABA3" />
     <MESSAGE value="LABA4" />
     <MESSAGE value="LABA5" />
     <MESSAGE value="laba 1 module 3" />
@@ -622,7 +621,8 @@
     <MESSAGE value="module7" />
     <MESSAGE value="update" />
     <MESSAGE value="django#1" />
-    <option name="LAST_COMMIT_MESSAGE" value="django#1" />
+    <MESSAGE value="django#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="django#2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Магазин</title>
+</head>
+<body>
+    <h1>Магазин</h1>
+    <ul>
+        {% for item, price in products.items %}
+        <li>{{ item }} - {{ price }} <button>Купить</button></li>
+        {% endfor %}
+    </ul>
+    <button onclick="location.href='/task3/'">На главную страницу</button>  <!-- Изменённый путь -->
+</body>
+</html>
