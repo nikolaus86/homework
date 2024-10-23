@@ -1,0 +1,13 @@
+{% extends 'fourth_task/menu.html' %}  {# Убедитесь, что путь к menu.html правильный #}
+
+{% block pagename %}Магазин{% endblock %}
+
+{% block content %}
+    <h1>Магазин</h1>
+    <ul>
+        {% for game in games %}
+        <li>{{ game }} <button>Купить</button></li>
+        {% endfor %}
+    </ul>
+    <button onclick="location.href='/'">На главную страницу</button>
+{% endblock %}
